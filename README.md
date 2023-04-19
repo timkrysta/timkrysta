@@ -1,5 +1,5 @@
 <!--[![MasterHead](https://raw.githubusercontent.com/timkrysta/justeuro/main/vacancies-page.png)](https://www.justeuro.eu)-->
-[![MasterHead]([https://raw.githubusercontent.com/timkrysta/justeuro/main/vacancies-page.png](https://media.licdn.com/dms/image/D4E16AQGza2BRvcJSSw/profile-displaybackgroundimage-shrink_350_1400/0/1678719186499?e=1687392000&v=beta&t=9-b0epoPA4W1okAwy6f1WXnYDrMco8vJBe9rD91E8Ac))](https://www.justeuro.eu)
+[![MasterHead](https://raw.githubusercontent.com/timkrysta/timkrysta/main/right-job.png)](https://www.justeuro.eu)
 
 <h1 align="center">Hi 👋, I'm Tim Krysta</h1>
 <h3 align="center">A freelance recruiter</h3>
