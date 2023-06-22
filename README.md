@@ -1,8 +1,8 @@
 <!--[![MasterHead](https://raw.githubusercontent.com/timkrysta/justeuro/main/vacancies-page.png)](https://www.justeuro.eu)-->
 [![MasterHead](https://raw.githubusercontent.com/timkrysta/timkrysta/main/right-job.png)](https://www.justeuro.eu)
 
-<h1 align="center">Hi 👋, I'm Tim Krysta</h1>
-<h3 align="center">A freelance recruiter</h3>
+<h1 align="center">Hi 👋, I am Tim Krysta</h1>
+<h3 align="center">Full Stack developer with hands-on experience in Linux server administration.</h3>
 
 I’m currently working on my recruitment agency - [www.justeuro.eu](https://www.justeuro.eu)
 
